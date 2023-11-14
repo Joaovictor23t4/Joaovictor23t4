@@ -36,5 +36,3 @@
 
 </div>
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dnzLucas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
