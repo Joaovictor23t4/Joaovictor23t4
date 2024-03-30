@@ -18,9 +18,3 @@
 
 ##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joaovictor23t4&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/Joaovictor23t4)
-
-##
-
-<div align="center">
-
-</div>
